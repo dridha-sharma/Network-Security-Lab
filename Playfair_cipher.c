@@ -171,3 +171,4 @@ int main()
 	cout << "Cipher text: " << str << "\n";
 
 	return 0;
+}
